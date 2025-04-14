@@ -4,7 +4,7 @@ Ez Learn is an AI-powered mobile application designed to help users explore pers
 
 ## Tech Stack
 
-- **Frontend**: React Native, Next.js, Expo
+- **Frontend**: React Native, Expo
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **AI**: Gemini AI
