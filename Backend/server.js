@@ -86,7 +86,7 @@ app.post("/levelSelection", async (req, res) => {
             const processedModules = [];
 
             for (const module of topic.modules) {
-                await delay(20000);
+                await delay(10000);
 
                 let content = "Content generation failed.";
                 let ytSummary = null;
